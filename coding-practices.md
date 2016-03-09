@@ -69,7 +69,7 @@ foreach ($periodIterator as $date) {
 [datetime]: http://php.net/book.datetime
 [dateformat]: http://php.net/function.date
 
-## 设计模式 {#design_patterns_title}
+## 设计模式
 
 当你在编写自己的应用程序时，最好在项目的代码和整体架构中使用通用的设计模式，这将帮助你更轻松地对程序进行维护，也能够让其他的开发者更快地理解你的代码。
 
