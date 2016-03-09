@@ -26,7 +26,7 @@ PHP 中的 [mysql] 扩展已经不再进行新的开发了，并且已经[在 PH
 [mysql_api]: http://php.net/mysqlinfo.api.choosing
 [pdo4mysql_devs]: http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
 
-## PDO 扩展 {#pdo_extension_title}
+## PDO 扩展
 
 [PDO] 是一个数据库连接抽象类库 &mdash; 自 5.1.0 版本起内置于 PHP 当中 &mdash; 它提供了一个通用的接口来与不同的数据库进行交互。比如你可以使用相同的简单代码来连接 MySQL 或是 SQLite：
 
